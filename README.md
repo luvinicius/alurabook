@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# AluraBooks
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto feito durante o curso de responsividade da Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **AluraBooks**
+| :label: Tecnologias | html, css
+| :rocket: URL         | https://luvinicius.github.io/alurabook/
+| :fire: Desafio     | https://www.alura.com.br/curso-online-html-css-responsividade-mobile-first
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/luvinicius/alurabook/blob/main/assets/img/P%C3%A1gina%20inicial%20-%20MENU.png)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto criado durante o curso de HTML e CSS: responsividade com mobile-first
