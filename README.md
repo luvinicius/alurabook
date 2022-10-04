@@ -10,7 +10,7 @@ Projeto feito durante o curso de responsividade da Alura.
 | :fire: Desafio     | https://www.alura.com.br/curso-online-html-css-responsividade-mobile-first
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/luvinicius/alurabook/blob/main/assets/img/P%C3%A1gina%20inicial%20-%20MENU.png)
+[![Previw of AluruaBook System](https://github.com/luvinicius/alurabook/blob/main/AluraBook-Preview.png?raw=true#vitrinedev)](https://luvinicius.github.io/alurabook/)
 
 ## Detalhes do projeto
 
